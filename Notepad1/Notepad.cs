@@ -14,9 +14,9 @@ using System.IO;
 
 namespace Notepad1
 {
-    public partial class Form1 : Form
+    public partial class Notepad : Form
     {
-        public Form1()
+        public Notepad()
         {
             InitializeComponent();
             this.Text = "文本编辑器";
